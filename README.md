@@ -1,5 +1,5 @@
 ## Project de The Hacking Project
-Amélioration du site de The Gossip Project
+Site de The Gossip Project
 ### Lancer le programme
 	
 	bundle install
